@@ -37,7 +37,7 @@ Tracking my academic credits for **B.Tech (AI & ML)** according to the official 
 | 8 |  MC | Heritage of Tamils | 1 | SH7101 | ✅ PASS | Nil |
 | 9 | ES | Python Programming | 3 | 19AI301 | ❌ WITHDRAW | Dr. Ulagammai |
 
-**Remarks:** Completed all courses except Python (Withdrawn)  
+**Remarks:** *Python* Withdraw
 **Credit Count:** **23 / 168 credits → 13.69%** 
 
 ---
@@ -57,7 +57,7 @@ Tracking my academic credits for **B.Tech (AI & ML)** according to the official 
 | 8 | EEC | Reasoning Ability | 1 | SH6709 | ⏳ results | Jaya Preeta |
 | 9 | ES | Fundamentals of C | 3 | CS3304 | ❌ WITHDRAW | Saranya |
 
-**Remark:** *Fundamentals of C* withdrawn, remaining courses – Waiting for results.
+**Remark:** *Fundamentals of C* Withdraw  
 **Credit Count:** **--**  
 
 
