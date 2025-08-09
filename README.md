@@ -47,9 +47,9 @@ Tracking my academic credits for **B.Tech (AI & ML)** according to the official 
 
 | S.No | Category | Course Name | Credit | Code | Remark | Faculty |
 |------|----------|-------------|--------|------|--------|---------|
-| 1 | ES | Basic Electrical and Electronics Engineering (BEEE) | 3 | EC2305 | ⏳ results | Muthuvel |
+| 1 | ES | Basic Electrical and Electronics Engineering  | 3 | EC2305 | ⏳ results | Muthuvel |
 | 2 | ES | Digital Electronics | 4 | EC2404 | ⏳ results | Poovannan |
-| 3 | ES | Engineering Mechanics for Product Design (EMPD) | 3 | CS3303 | ⏳ results | Shagul |
+| 3 | ES | Engineering Mechanics for Product Design  | 3 | CS3303 | ⏳ results | Shagul |
 | 4 | BS | Chemistry | 4 | SH4205 | ⏳ results | Mohammed Ali |
 | 5 | BS | Probability and Queuing | 4 | SH2222 | ⏳ results | Ramesh Kumar |
 | 6 | PE | Computer Architecture | 3 | CS1305 | ⏳ results | Kumaran |
