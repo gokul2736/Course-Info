@@ -47,14 +47,14 @@ Tracking my academic credits for **B.Tech (AI & ML)** according to the official 
 
 | S.No | Category | Course Name | Credit | Code | Remark | Faculty |
 |------|----------|-------------|--------|------|--------|---------|
-| 1 | ES | Basic Electrical and Electronics Engineering  | 3 | EC2305 | ⏳ results | Muthuvel |
-| 2 | ES | Digital Electronics | 4 | EC2404 | ⏳ results | Poovannan |
-| 3 | ES | Engineering Mechanics for Product Design  | 3 | CS3303 | ⏳ results | Shagul |
-| 4 | BS | Chemistry | 4 | SH4205 | ⏳ results | Mohammed Ali |
-| 5 | BS | Probability and Queuing | 4 | SH2222 | ⏳ results | Ramesh Kumar |
-| 6 | PE | Computer Architecture | 3 | CS1305 | ⏳ results | Kumaran |
-| 7 | PE | Cryptography | 3 | CS1415 | ⏳ results | Hemavati |
-| 8 | EEC | Reasoning Ability | 1 | SH6709 | ⏳ results | Jaya Preeta |
+| 1 | ES | Basic Electrical and Electronics Engineering  | 3 | EC2305 | ⏳  | Muthuvel |
+| 2 | ES | Digital Electronics | 4 | EC2404 | ⏳  | Poovannan |
+| 3 | ES | Engineering Mechanics for Product Design  | 3 | CS3303 | ⏳  | Shagul |
+| 4 | BS | Chemistry | 4 | SH4205 | ⏳  | Mohammed Ali |
+| 5 | BS | Probability and Queuing | 4 | SH2222 | ⏳  | Ramesh Kumar |
+| 6 | PE | Computer Architecture | 3 | CS1305 | ⏳  | Kumaran |
+| 7 | PE | Cryptography | 3 | CS1415 | ⏳  | Hemavati |
+| 8 | EEC | Reasoning Ability | 1 | SH6709 | ⏳  | Jaya Preeta |
 | 9 | ES | Fundamentals of C | 3 | CS3304 | ❌ WITHDRAW | Saranya |
 
 **Remark:** *Fundamentals of C* Withdraw  
