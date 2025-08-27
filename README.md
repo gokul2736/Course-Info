@@ -67,7 +67,7 @@ Tracking my academic credits for **B.Tech (AI & ML)** according to the official 
 
 | S.No | Category | Course Name | Credit | Code | Remark | Faculty |
 |------|----------|-------------|--------|------|--------|---------|
-| 1 | ES |  Fundamentals of C Programming  | 3 | EC2305 | ⏳  | Muthuvel |
+| 1 | ES |  Fundamentals of C Programming  | 3 | EC2305 | ⏳  |  |
 | 2 | BS | Statistics and Numerical Methods | 4 | EC2404 | ⏳  | Poovannan |
 | 3 | HS | Stock Market and Company Operations  | 3 | CS3303 | ⏳  | Shagul |
 | 4 | PC | Digital Image Processing Techniques |  | SH4205 | ⏳  | Mohammed Ali |
@@ -75,7 +75,7 @@ Tracking my academic credits for **B.Tech (AI & ML)** according to the official 
 | 6 | PC | Operating System |  | CS1305 | ⏳  | Kumaran |
 | 7 | PC | Computer Networks | 4 | CS1415 | ⏳  | Hemavati |
 | 8 | EEC |  Quantitative Ability I | 1 | SH6709 | ⏳  | Jaya Preeta |
-| 9 | PE | Software Testing Labouratory| 3 | CS3304 | ❌ WITHDRAW | Saranya |
+| 9 | PE | Software Testing Labouratory| 3 | CS3304 | ❌ WITHDRAW | Vijay Anand |
 
 
 
