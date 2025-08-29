@@ -44,7 +44,6 @@ Tracking my academic credits for **B.Tech (AI & ML)** according to the official 
 
 ## 📅 Semester 2 –  Credit Report
 
-
 | S.No | Category | Course Name | Credit | Code | Remark | Faculty |
 |------|----------|-------------|--------|------|--------|---------|
 | 1 | ES | Basic Electrical and Electronics Engineering  | 3 | EC2305 | ⏳  | Muthuvel |
@@ -64,7 +63,6 @@ Tracking my academic credits for **B.Tech (AI & ML)** according to the official 
 
 ## 📅 Semester 3 –  Credit Report
 
-
 | S.No | Category | Course Name | Credit | Code | Remark | Faculty |
 |------|----------|-------------|--------|------|--------|---------|
 | 1 | ES |  Fundamentals of C Programming  | 3 | EC2305 | ⏳  |  |
@@ -78,14 +76,6 @@ Tracking my academic credits for **B.Tech (AI & ML)** according to the official 
 | 9 | PE | Software Testing Labouratory| 3 | CS3304 | ❌ WITHDRAW | Vijay Anand |
 
 
-
-
-## 📅 Semester-wise 
-| Semester | Credits Earned | 
-|----------|----------------|
-| Semester 1 | 23 | 
-| Semester 2 | -- | 
-| Semester 3 | -- | 
 
 
 Semester|	Course Code	|Course Name|	Credit	|Grade point|	Grade|	Result |
